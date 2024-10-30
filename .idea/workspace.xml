@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfabd882-b672-4c25-9070-733ee528071e" name="Changes" comment="Exercise04 done." />
+    <list default="true" id="bfabd882-b672-4c25-9070-733ee528071e" name="Changes" comment="Exercises done." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730308547684</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercises done.">
+      <option name="closed" value="true" />
+      <created>1730309519003</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730309519003</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +119,7 @@
     <MESSAGE value="Exercise01 done." />
     <MESSAGE value="Exercise02 done." />
     <MESSAGE value="Exercise04 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise04 done." />
+    <MESSAGE value="Exercises done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises done." />
   </component>
 </project>

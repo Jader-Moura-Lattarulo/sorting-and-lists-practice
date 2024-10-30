@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfabd882-b672-4c25-9070-733ee528071e" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/numberlist/MainNumberList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/numberlist/numberlistmaker/NumberListMaker.java" afterDir="false" />
+    <list default="true" id="bfabd882-b672-4c25-9070-733ee528071e" name="Changes" comment="Exercise01 done.">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/titlelist/MainTitleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/titlelist/titlelistmaker/Title.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,24 +18,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Jader-Moura-Lattarulo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jader-Moura-Lattarulo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Jader-Moura-Lattarulo/sorting-and-lists-practice.git",
-    "accountId": "a7d42cb1-5238-4484-8229-423d76ae26fc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jader-Moura-Lattarulo/sorting-and-lists-practice.git&quot;,
+    &quot;accountId&quot;: &quot;a7d42cb1-5238-4484-8229-423d76ae26fc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -47,14 +48,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MainNumberList.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainNumberList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTitleList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730301970076</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercise01 done.">
+      <option name="closed" value="true" />
+      <created>1730304363573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730304363573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Exercise01 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise01 done." />
   </component>
 </project>

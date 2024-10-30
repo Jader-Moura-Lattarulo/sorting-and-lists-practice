@@ -3,7 +3,7 @@ package br.com.alura.titlelist;
 import br.com.alura.titlelist.titlelistmaker.Title;
 
 import java.util.ArrayList;
-import java.util.Comparator;
+import java.util.Collections;
 
 public class MainTitleList {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class MainTitleList {
         Title title04 = new Title("Star Wars");
         Title title05 = new Title("Transformers");
 
-        ArrayList<Title> list = new ArrayList<Title>();
+        ArrayList<Title> list = new ArrayList<>();
 
         list.add(title01);
         list.add(title02);
@@ -21,10 +21,13 @@ public class MainTitleList {
         list.add(title04);
         list.add(title05);
 
-        System.out.println(list);
+        Collections.sort(list);
 
-        list.sort(Comparator.comparing(Title::getTitleName));
 
-        System.out.println(list);
+        System.out.println("Títulos ordenados:");
+        for (Title title : list) {
+            System.out.println(title);
+        }
+
     }
 }

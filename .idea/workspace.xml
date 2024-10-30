@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfabd882-b672-4c25-9070-733ee528071e" name="Changes" comment="Exercise01 done.">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/titlelist/MainTitleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/titlelist/titlelistmaker/Title.java" afterDir="false" />
+    <list default="true" id="bfabd882-b672-4c25-9070-733ee528071e" name="Changes" comment="Exercise02 done.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/titlelist/MainTitleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/titlelist/MainTitleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/titlelist/titlelistmaker/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/titlelist/titlelistmaker/Title.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1730304363573</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercise02 done.">
+      <option name="closed" value="true" />
+      <created>1730306614758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730306614758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Exercise01 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise01 done." />
+    <MESSAGE value="Exercise02 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise02 done." />
   </component>
 </project>

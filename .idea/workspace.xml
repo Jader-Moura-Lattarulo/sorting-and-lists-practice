@@ -1,26 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfabd882-b672-4c25-9070-733ee528071e" name="Changes" comment="" />
+    <list default="true" id="bfabd882-b672-4c25-9070-733ee528071e" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/numberlist/MainNumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/numberlist/numberlistmaker/NumberListMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jader-Moura-Lattarulo"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jader-Moura-Lattarulo/sorting-and-lists-practice.git",
+    "accountId": "a7d42cb1-5238-4484-8229-423d76ae26fc"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2oAAEAQZZI8EYd9MSGJLvr9vEtT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainNumberList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -35,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730301891876</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1730301970075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730301970076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
